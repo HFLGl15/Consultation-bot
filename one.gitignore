@@ -1,0 +1,3 @@
+git add main.py one.gitignore
+git commit -m "Б3-1 Создать структуру проекта"
+git push
